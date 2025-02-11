@@ -1,6 +1,6 @@
-# Japan Heart Attack Dataset Analysis
+# Japan Heart Attack Analysis
 
-## Overview
+## Project Description
 This script processes and analyzes the `japan_heart_attack_dataset.csv` to extract insights about heart attack occurrences in males and females, focusing on factors such as smoking history, diabetes, alcohol consumption, and urban vs. rural distribution.
 
 ## Features & Functionality
