@@ -49,5 +49,3 @@ This script processes and analyzes the `japan_heart_attack_dataset.csv`  , this 
 - The dataset should contain at least the following columns: `Gender`, `Smoking_History`, `Diabetes_History`, `Region`, `Alcohol_Consumption`, and `Age`.
 - Additional filtering and analysis can be applied as needed.
 
-## Author
-This script was created to provide insights into heart attack trends using data analytics techniques.
